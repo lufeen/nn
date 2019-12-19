@@ -1,0 +1,4 @@
+com\lks\currencyexchangeservice\entity\ExchangeValue.class
+com\lks\currencyexchangeservice\ExchangeValueController\ExchangeValueController.class
+com\lks\currencyexchangeservice\ExchangeValueRepository\ExchangeValueRepository.class
+com\lks\currencyexchangeservice\CurrencyExchangeConverterAppApplication.class

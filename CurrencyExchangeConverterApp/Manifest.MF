@@ -1,0 +1,14 @@
+<plugin>
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-maven-plugin</artifactId>
+<version>1.0.3.BUILD-SNAPSHOT</version>
+<configuration>
+    <mainClass>com.lks.currencyexchangeservice</mainClass>
+
+</configuration>
+<executions>
+<execution>
+    <goals>
+        <goal>repackage</goal>
+    </goals>
+</execution>
